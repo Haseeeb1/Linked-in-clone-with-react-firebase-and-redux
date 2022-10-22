@@ -1,8 +1,8 @@
 
 
-DEPLOYED APP:
+DEPLOYED APPLICATION:
 
-                      https://linkedin-h.netlify.app/
+                    -->  https://linkedin-h.netlify.app/
 
 
 
